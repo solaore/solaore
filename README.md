@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @solaore
-- 👀 I’m interested in Data analytics 
+Hi, I’m Oluwadoyinsola Ore a data analyst fascinated by numbers and skilled in SQL and Excel 
 - 🌱 I’m currently learning Data visualization (Tableau)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via email (estherore302@gmail.com)
